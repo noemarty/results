@@ -1,0 +1,233 @@
+@SampleID:/home/nmarty/Metalign/test_read/SRR9328980.fastq						
+@Version:Metalign						
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain						
+						
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+2	superkingdom	2	Bacteria	98.96861		
+10239	superkingdom	10239	Viruses	1.03085		
+1224	phylum	2|1224	Bacteria|Proteobacteria	58.86944		
+1239	phylum	2|1239	Bacteria|Firmicutes	24.30865		
+976	phylum	2|976	Bacteria|Bacteroidetes	15.59192		
+201174	phylum	2|201174	Bacteria|Actinobacteria	0.19621		
+1297	phylum	2|1297	Bacteria|Deinococcus-Thermus	0.00238		
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	46.8398		
+91061	class	2|1239|91061	Bacteria|Firmicutes|Bacilli	22.40439		
+200643	class	2|976|200643	Bacteria|Bacteroidetes|Bacteroidia	15.59192		
+28211	class	2|1224|28211	Bacteria|Proteobacteria|Alphaproteobacteria	11.6673		
+186801	class	2|1239|186801	Bacteria|Firmicutes|Clostridia	1.90425		
+28216	class	2|1224|28216	Bacteria|Proteobacteria|Betaproteobacteria	0.27668		
+1760	class	2|201174|1760	Bacteria|Actinobacteria|Actinobacteria	0.19621		
+29547	class	2|1224|29547	Bacteria|Proteobacteria|Epsilonproteobacteria	0.08567		
+188787	class	2|1297|188787	Bacteria|Deinococcus-Thermus|Deinococci	0.00238		
+91347	order	2|1224|1236|91347	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales	32.65821		
+1385	order	2|1239|91061|1385	Bacteria|Firmicutes|Bacilli|Bacillales	16.62927		
+171549	order	2|976|200643|171549	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales	15.59192		
+72274	order	2|1224|1236|72274	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales	14.16985		
+204455	order	2|1224|28211|204455	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales	11.61921		
+186826	order	2|1239|91061|186826	Bacteria|Firmicutes|Bacilli|Lactobacillales	5.77512		
+186802	order	2|1239|186801|186802	Bacteria|Firmicutes|Clostridia|Clostridiales	1.90425		
+206351	order	2|1224|28216|206351	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales	0.27668		
+85009	order	2|201174|1760|85009	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales	0.1954		
+213849	order	2|1224|29547|213849	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales	0.08567		
+356	order	2|1224|28211|356	Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales	0.04809		
+135614	order	2|1224|1236|135614	Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales	0.01173		
+118964	order	2|1297|188787|118964	Bacteria|Deinococcus-Thermus|Deinococci|Deinococcales	0.00238		
+85007	order	2|201174|1760|85007	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales	0.00046		
+85004	order	2|201174|1760|85004	Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales	0.00036		
+543	family	2|1224|1236|91347|543	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae	32.65821		
+135621	family	2|1224|1236|72274|135621	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae	12.27264		
+90964	family	2|1239|91061|1385|90964	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae	12.07265		
+31989	family	2|1224|28211|204455|31989	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae	11.61921		
+171551	family	2|976|200643|171549|171551	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae	9.30936		
+815	family	2|976|200643|171549|815	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae	6.28257		
+1300	family	2|1239|91061|186826|1300	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae	5.74963		
+186817	family	2|1239|91061|1385|186817	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae	4.55663		
+31979	family	2|1239|186801|186802|31979	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae	1.90425		
+468	family	2|1224|1236|72274|468	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae	1.89721		
+481	family	2|1224|28216|206351|481	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae	0.27668		
+31957	family	2|201174|1760|85009|31957	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae	0.1954		
+72293	family	2|1224|29547|213849|72293	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Helicobacteraceae	0.08567		
+82115	family	2|1224|28211|356|82115	Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae	0.04809		
+33958	family	2|1239|91061|186826|33958	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae	0.02549		
+32033	family	2|1224|1236|135614|32033	Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales|Xanthomonadaceae	0.01173		
+183710	family	2|1297|188787|118964|183710	Bacteria|Deinococcus-Thermus|Deinococci|Deinococcales|Deinococcaceae	0.00238		
+85025	family	2|201174|1760|85007|85025	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Nocardiaceae	0.00046		
+31953	family	2|201174|1760|85004|31953	Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae	0.00036		
+561	genus	2|1224|1236|91347|543|561	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia	26.44521		
+286	genus	2|1224|1236|72274|135621|286	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas	12.27264		
+1279	genus	2|1239|91061|1385|90964|1279	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus	12.07265		
+1060	genus	2|1224|28211|204455|31989|1060	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter	11.61921		
+836	genus	2|976|200643|171549|171551|836	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas	9.30936		
+816	genus	2|976|200643|171549|815|816	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides	6.28257		
+620	genus	2|1224|1236|91347|543|620	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella	6.2124		
+1301	genus	2|1239|91061|186826|1300|1301	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus	5.74963		
+1386	genus	2|1239|91061|1385|186817|1386	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus	4.55663		
+1485	genus	2|1239|186801|186802|31979|1485	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium	1.90425		
+469	genus	2|1224|1236|72274|468|469	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter	1.89721		
+482	genus	2|1224|28216|206351|481|482	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria	0.27668		
+1912216	genus	2|201174|1760|85009|31957|1912216	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Cutibacterium	0.10692		
+1743	genus	2|201174|1760|85009|31957|1743	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium	0.08848		
+209	genus	2|1224|29547|213849|72293|209	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Helicobacteraceae|Helicobacter	0.08567		
+379	genus	2|1224|28211|356|82115|379	Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae|Rhizobium	0.04809		
+1578	genus	2|1239|91061|186826|33958|1578	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus	0.02549		
+40323	genus	2|1224|1236|135614|32033|40323	Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales|Xanthomonadaceae|Stenotrophomonas	0.01173		
+1298	genus	2|1297|188787|118964|183710|1298	Bacteria|Deinococcus-Thermus|Deinococci|Deinococcales|Deinococcaceae|Deinococcus	0.00238		
+570	genus	2|1224|1236|91347|543|570	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella	0.0006		
+1827	genus	2|201174|1760|85007|85025|1827	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Nocardiaceae|Rhodococcus	0.00046		
+1678	genus	2|201174|1760|85004|31953|1678	Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium	0.00036		
+562	species	2|1224|1236|91347|543|561|562	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia coli	26.44444		
+287	species	2|1224|1236|72274|135621|286|287	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa	12.27036		
+1063	species	2|1224|28211|204455|31989|1060|1063	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter|Rhodobacter sphaeroides	11.61552		
+837	species	2|976|200643|171549|171551|836|837	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas gingivalis	9.30936		
+1280	species	2|1239|91061|1385|90964|1279|1280	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus aureus	7.42029		
+625	species	2|1224|1236|91347|543|620|625	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella sp.	6.19251		
+817	species	2|976|200643|171549|815|816|817	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides fragilis	6.04889		
+1309	species	2|1239|91061|186826|1300|1301|1309	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus mutans	5.01455		
+1396	species	2|1239|91061|1385|186817|1386|1396	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus cereus	4.37498		
+1282	species	2|1239|91061|1385|90964|1279|1282	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus epidermidis	3.37069		
+1520	species	2|1239|186801|186802|31979|1485|1520	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium beijerinckii	1.89945		
+470	species	2|1224|1236|72274|468|469|470	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter baumannii	1.89617		
+2047886	species	10239||||||2047886	Viruses||||||Campylobacter phage A11a	1.00786		
+1311	species	2|1239|91061|186826|1300|1301|1311	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus agalactiae	0.41247		
+1608877	species	2|1239|91061|1385|90964|1279|1608877	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC57A07	0.39797		
+1608891	species	2|1239|91061|1385|90964|1279|1608891	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC66C11	0.33031		
+487	species	2|1224|28216|206351|481|482|487	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria meningitidis	0.27166		
+818	species	2|976|200643|171549|815|816|818	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides thetaiotaomicron	0.22771		
+1739472	species	2|1239|91061|186826|1300|1301|1739472	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC065G04	0.21091		
+1608878	species	2|1239|91061|1385|90964|1279|1608878	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC57B03	0.20465		
+86661	species	2|1239|91061|1385|186817|1386|86661	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus cereus group	0.17545		
+1608873	species	2|1239|91061|1385|90964|1279|1608873	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC36G04	0.14683		
+1747	species	2|201174|1760|85009|31957|1912216|1747	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Cutibacterium|Cutibacterium acnes	0.10692		
+1283	species	2|1239|91061|1385|90964|1279|1283	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus haemolyticus	0.08894		
+210	species	2|1224|29547|213849|72293|209|210	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Helicobacteraceae|Helicobacter|Helicobacter pylori	0.08567		
+1715050	species	2|1239|91061|186826|1300|1301|1715050	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC069D09	0.08101		
+1739345	species	2|201174|1760|85009|31957|1743|1739345	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium|Propionibacterium sp. HMSC065F07	0.08095		
+1653436	species	2|1224|28211|356|82115|379|1653436	Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae|Rhizobium|Rhizobium sp. KAs 5-22	0.04809		
+1715128	species	2|1239|91061|1385|90964|1279|1715128	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC063F03	0.0258		
+1596	species	2|1239|91061|186826|33958|1578|1596	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus gasseri	0.02549		
+2047916	species	10239||||||2047916	Viruses||||||Campylobacter phage A18a	0.02299		
+624	species	2|1224|1236|91347|543|620|624	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella sonnei	0.01989		
+1608871	species	2|1239|91061|1385|90964|1279|1608871	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC36D12	0.01957		
+1739275	species	2|1239|91061|186826|1300|1301|1739275	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC072E12	0.01709		
+1715131	species	2|1239|91061|1385|90964|1279|1715131	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC034A07	0.0149		
+40324	species	2|1224|1236|135614|32033|40323|40324	Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales|Xanthomonadaceae|Stenotrophomonas|Stenotrophomonas maltophilia	0.01173		
+1739278	species	2|1239|91061|1385|90964|1279|1739278	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC034G11	0.01138		
+1715049	species	2|1239|91061|1385|90964|1279|1715049	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC060D12	0.00926		
+1739266	species	2|1239|91061|186826|1300|1301|1739266	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC075A03	0.00831		
+1739486	species	2|201174|1760|85009|31957|1743|1739486	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium|Propionibacterium sp. HMSC067A01	0.00754		
+1608903	species	2|1239|91061|1385|90964|1279|1608903	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC74D05	0.00627		
+821	species	2|976|200643|171549|815|816|821	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides vulgatus	0.00506		
+223919	species	2|1239|186801|186802|31979|1485|223919	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium diolis	0.00432		
+1392	species	2|1239|91061|1385|186817|1386|1392	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus anthracis	0.00428		
+1608909	species	2|1239|91061|1385|90964|1279|1608909	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC76G03	0.00396		
+493	species	2|1224|28216|206351|481|482|493	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria canis	0.00387		
+1608879	species	2|1239|91061|1385|90964|1279|1608879	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC58A02	0.00379		
+1608890	species	2|1239|91061|1385|90964|1279|1608890	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC66A04	0.00351		
+1739323	species	2|1239|91061|1385|90964|1279|1739323	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC055H04	0.00338		
+418630	species	2|1224|28211|204455|31989|1060|418630	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter|Rhodobacter megalophilus	0.00326		
+1739249	species	2|1239|91061|1385|90964|1279|1739249	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC075A04	0.00308		
+1581086	species	2|1239|91061|186826|1300|1301|1581086	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC11C05	0.00266		
+1299	species	2|1297|188787|118964|183710|1298|1299	Bacteria|Deinococcus-Thermus|Deinococci|Deinococcales|Deinococcaceae|Deinococcus|Deinococcus radiodurans	0.00238		
+1739293	species	2|1224|1236|72274|135621|286|1739293	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. HMSC067D05	0.00228		
+1739530	species	2|1239|91061|1385|90964|1279|1739530	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC060D01	0.00217		
+1111760	species	2|1239|91061|186826|1300|1301|1111760	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus troglodytae	0.00151		
+1739347	species	2|1239|91061|1385|90964|1279|1739347	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC067B04	0.00142		
+492	species	2|1224|28216|206351|481|482|492	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria animalis	0.00114		
+1715029	species	2|1239|91061|1385|90964|1279|1715029	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC074D07	0.00109		
+1715212	species	2|1239|91061|1385|90964|1279|1715212	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC063H12	0.00097		
+29523	species	2|976|200643|171549|815|816|29523	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp.	0.0009		
+471	species	2|1224|1236|72274|468|469|471	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter calcoaceticus	0.00087		
+2072506	species	2|1239|91061|1385|186817|1386|2072506	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus sp. AKBS9	0.00084		
+1739509	species	2|1239|91061|1385|90964|1279|1739509	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC055A10	0.00084		
+1310	species	2|1239|91061|186826|1300|1301|1310	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sobrinus	0.0008		
+2082629	species	2|1224|1236|91347|543|561|2082629	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia sp. R15	0.00077		
+1715055	species	2|1239|91061|1385|90964|1279|1715055	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC063F05	0.0007		
+573	species	2|1224|1236|91347|543|570|573	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae	0.0006		
+1565146	species	2|1239|91061|1385|186817|1386|1565146	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus sp. UMTAT18	0.0006		
+1702238	species	2|1239|186801|186802|31979|1485|1702238	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium sp. MF28	0.00049		
+1608907	species	2|1239|91061|1385|90964|1279|1608907	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC74G05	0.00048		
+1866317	species	2|1239|91061|1385|186817|1386|1866317	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus sp. P14-1	0.00048		
+334542	species	2|201174|1760|85007|85025|1827|334542	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Nocardiaceae|Rhodococcus|Rhodococcus qingshengii	0.00046		
+445629	species	2|1224|28211|204455|31989|1060|445629	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter|Rhodobacter johrii	0.00043		
+1295	species	2|1239|91061|1385|90964|1279|1295	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus schleiferi	0.00038		
+1680	species	2|201174|1760|85004|31953|1678|1680	Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium adolescentis	0.00036		
+1306	species	2|1239|91061|186826|1300|1301|1306	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp.	0.00034		
+48296	species	2|1224|1236|72274|468|469|48296	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter pittii	0.00017		
+562.6091.1	strain	2|1224|1236|91347|543|561|562|562.6091.1	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia coli|	26.44444	562.6091.1	562
+287.594.1	strain	2|1224|1236|72274|135621|286|287|287.594.1	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa|	12.27036	287.594.1	287
+349101.1	strain	2|1224|28211|204455|31989|1060|1063|349101.1	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter|Rhodobacter sphaeroides|Rhodobacter sphaeroides ATCC 17029	11.61552	349101.1	349101
+1403335.1	strain	2|976|200643|171549|171551|836|837|1403335.1	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas gingivalis|Porphyromonas gingivalis 381	9.30936	1403335.1	1403335
+367830.1	strain	2|1239|91061|1385|90964|1279|1280|367830.1	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus aureus|Staphylococcus aureus subsp. aureus USA300	7.42029	367830.1	367830
+625.50.1	strain	2|1224|1236|91347|543|620|625|625.50.1	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella sp.|	6.19251	625.50.1	625
+272559.0.1	strain	2|976|200643|171549|815|816|817|272559.0.1	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides fragilis|Bacteroides fragilis NCTC 9343	6.04889	272559.0.1	272559
+210007.1	strain	2|1239|91061|186826|1300|1301|1309|210007.1	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus mutans|Streptococcus mutans UA159	5.01455	210007.1	210007
+222523.0.1	strain	2|1239|91061|1385|186817|1386|1396|222523.0.1	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus cereus|Bacillus cereus ATCC 10987	4.37498	222523.0.1	222523
+1282.73.1	strain	2|1239|91061|1385|90964|1279|1282|1282.73.1	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus epidermidis|	3.37069	1282.73.1	1282
+290402.1	strain	2|1239|186801|186802|31979|1485|1520|290402.1	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium beijerinckii|Clostridium beijerinckii NCIMB 8052	1.89945	290402.1	290402
+470.483.1	strain	2|1224|1236|72274|468|469|470|470.483.1	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter baumannii|	1.89617	470.483.1	470
+2047886.0	strain	10239||||||2047886|2047886.0	Viruses||||||Campylobacter phage A11a|Campylobacter phage A11a unknown strain	1.00786	2047886.0	2047886
+208435.1	strain	2|1239|91061|186826|1300|1301|1311|208435.1	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus agalactiae|Streptococcus agalactiae 2603V/R	0.41247	208435.1	208435
+1608877.0	strain	2|1239|91061|1385|90964|1279|1608877|1608877.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC57A07|Staphylococcus sp. HMSC57A07 unknown strain	0.39797	1608877.0	1608877
+1608891.0	strain	2|1239|91061|1385|90964|1279|1608891|1608891.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC66C11|Staphylococcus sp. HMSC66C11 unknown strain	0.33031	1608891.0	1608891
+122586.1	strain	2|1224|28216|206351|481|482|487|122586.1	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria meningitidis|Neisseria meningitidis MC58	0.27166	122586.1	122586
+226186.0.1	strain	2|976|200643|171549|815|816|818|226186.0.1	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides thetaiotaomicron|Bacteroides thetaiotaomicron VPI-5482	0.22771	226186.0.1	226186
+1739472.0	strain	2|1239|91061|186826|1300|1301|1739472|1739472.0	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC065G04|Streptococcus sp. HMSC065G04 unknown strain	0.21091	1739472.0	1739472
+1608878.0	strain	2|1239|91061|1385|90964|1279|1608878|1608878.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC57B03|Staphylococcus sp. HMSC57B03 unknown strain	0.20465	1608878.0	1608878
+2026187.0	strain	2|1239|91061|1385|186817|1386|86661|2026187.0	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus cereus group|Bacillus cereus group unknown strain	0.17545	2026187.0	2026187
+1608873.0	strain	2|1239|91061|1385|90964|1279|1608873|1608873.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC36G04|Staphylococcus sp. HMSC36G04 unknown strain	0.14683	1608873.0	1608873
+1091045.1	strain	2|201174|1760|85009|31957|1912216|1747|1091045.1	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Cutibacterium|Cutibacterium acnes|Cutibacterium acnes subsp. defendens ATCC 11828	0.10692	1091045.1	1091045
+1283.4.1	strain	2|1239|91061|1385|90964|1279|1283|1283.4.1	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus haemolyticus|	0.08894	1283.4.1	1283
+210.606.1	strain	2|1224|29547|213849|72293|209|210|210.606.1	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Helicobacteraceae|Helicobacter|Helicobacter pylori|	0.08567	210.606.1	210
+1715050.0	strain	2|1239|91061|186826|1300|1301|1715050|1715050.0	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC069D09|Streptococcus sp. HMSC069D09 unknown strain	0.08101	1715050.0	1715050
+1739345.0	strain	2|201174|1760|85009|31957|1743|1739345|1739345.0	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium|Propionibacterium sp. HMSC065F07|Propionibacterium sp. HMSC065F07 unknown strain	0.08095	1739345.0	1739345
+1653436.0	strain	2|1224|28211|356|82115|379|1653436|1653436.0	Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae|Rhizobium|Rhizobium sp. KAs 5-22|Rhizobium sp. KAs 5-22 unknown strain	0.04809	1653436.0	1653436
+1715128.0	strain	2|1239|91061|1385|90964|1279|1715128|1715128.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC063F03|Staphylococcus sp. HMSC063F03 unknown strain	0.0258	1715128.0	1715128
+324831.0.1	strain	2|1239|91061|186826|33958|1578|1596|324831.0.1	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus gasseri|Lactobacillus gasseri ATCC 33323 = JCM 1131	0.02549	324831.0.1	324831
+2047916.0	strain	10239||||||2047916|2047916.0	Viruses||||||Campylobacter phage A18a|Campylobacter phage A18a unknown strain	0.02299	2047916.0	2047916
+624.1241.1	strain	2|1224|1236|91347|543|620|624|624.1241.1	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella sonnei|	0.01989	624.1241.1	624
+1608871.0	strain	2|1239|91061|1385|90964|1279|1608871|1608871.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC36D12|Staphylococcus sp. HMSC36D12 unknown strain	0.01957	1608871.0	1608871
+1739275.0	strain	2|1239|91061|186826|1300|1301|1739275|1739275.0	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC072E12|Streptococcus sp. HMSC072E12 unknown strain	0.01709	1739275.0	1739275
+1715131.0	strain	2|1239|91061|1385|90964|1279|1715131|1715131.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC034A07|Staphylococcus sp. HMSC034A07 unknown strain	0.0149	1715131.0	1715131
+40324.16.1	strain	2|1224|1236|135614|32033|40323|40324|40324.16.1	Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales|Xanthomonadaceae|Stenotrophomonas|Stenotrophomonas maltophilia|	0.01173	40324.16.1	40324
+1739278.0	strain	2|1239|91061|1385|90964|1279|1739278|1739278.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC034G11|Staphylococcus sp. HMSC034G11 unknown strain	0.01138	1739278.0	1739278
+1715049.0	strain	2|1239|91061|1385|90964|1279|1715049|1715049.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC060D12|Staphylococcus sp. HMSC060D12 unknown strain	0.00926	1715049.0	1715049
+1739266.0	strain	2|1239|91061|186826|1300|1301|1739266|1739266.0	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC075A03|Streptococcus sp. HMSC075A03 unknown strain	0.00831	1739266.0	1739266
+1739486.0	strain	2|201174|1760|85009|31957|1743|1739486|1739486.0	Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium|Propionibacterium sp. HMSC067A01|Propionibacterium sp. HMSC067A01 unknown strain	0.00754	1739486.0	1739486
+1608903.0	strain	2|1239|91061|1385|90964|1279|1608903|1608903.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC74D05|Staphylococcus sp. HMSC74D05 unknown strain	0.00627	1608903.0	1608903
+821.30.1	strain	2|976|200643|171549|815|816|821|821.30.1	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides vulgatus|	0.00506	821.30.1	821
+223919.0.1	strain	2|1239|186801|186802|31979|1485|223919|223919.0.1	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium diolis|	0.00432	223919.0.1	223919
+1392.95.1	strain	2|1239|91061|1385|186817|1386|1392|1392.95.1	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus anthracis|	0.00428	1392.95.1	1392
+1608909.0	strain	2|1239|91061|1385|90964|1279|1608909|1608909.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC76G03|Staphylococcus sp. HMSC76G03 unknown strain	0.00396	1608909.0	1608909
+493.0.1	strain	2|1224|28216|206351|481|482|493|493.0.1	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria canis|	0.00387	493.0.1	493
+1608879.0	strain	2|1239|91061|1385|90964|1279|1608879|1608879.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC58A02|Staphylococcus sp. HMSC58A02 unknown strain	0.00379	1608879.0	1608879
+1608890.0	strain	2|1239|91061|1385|90964|1279|1608890|1608890.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC66A04|Staphylococcus sp. HMSC66A04 unknown strain	0.00351	1608890.0	1608890
+1739323.0	strain	2|1239|91061|1385|90964|1279|1739323|1739323.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC055H04|Staphylococcus sp. HMSC055H04 unknown strain	0.00338	1739323.0	1739323
+418630.0	strain	2|1224|28211|204455|31989|1060|418630|418630.0	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter|Rhodobacter megalophilus|Rhodobacter megalophilus unknown strain	0.00326	418630.0	418630
+1739249.0	strain	2|1239|91061|1385|90964|1279|1739249|1739249.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC075A04|Staphylococcus sp. HMSC075A04 unknown strain	0.00308	1739249.0	1739249
+1581086.0	strain	2|1239|91061|186826|1300|1301|1581086|1581086.0	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HMSC11C05|Streptococcus sp. HMSC11C05 unknown strain	0.00266	1581086.0	1581086
+243230.0.1	strain	2|1297|188787|118964|183710|1298|1299|243230.0.1	Bacteria|Deinococcus-Thermus|Deinococci|Deinococcales|Deinococcaceae|Deinococcus|Deinococcus radiodurans|Deinococcus radiodurans R1	0.00238	243230.0.1	243230
+1739293.0	strain	2|1224|1236|72274|135621|286|1739293|1739293.0	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. HMSC067D05|Pseudomonas sp. HMSC067D05 unknown strain	0.00228	1739293.0	1739293
+1739530.0	strain	2|1239|91061|1385|90964|1279|1739530|1739530.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC060D01|Staphylococcus sp. HMSC060D01 unknown strain	0.00217	1739530.0	1739530
+1111760.0	strain	2|1239|91061|186826|1300|1301|1111760|1111760.0	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus troglodytae|Streptococcus troglodytae unknown strain	0.00151	1111760.0	1111760
+1739347.0	strain	2|1239|91061|1385|90964|1279|1739347|1739347.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC067B04|Staphylococcus sp. HMSC067B04 unknown strain	0.00142	1739347.0	1739347
+492.0	strain	2|1224|28216|206351|481|482|492|492.0	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria animalis|Neisseria animalis unknown strain	0.00114	492.0	492
+1715029.0	strain	2|1239|91061|1385|90964|1279|1715029|1715029.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC074D07|Staphylococcus sp. HMSC074D07 unknown strain	0.00109	1715029.0	1715029
+1715212.0	strain	2|1239|91061|1385|90964|1279|1715212|1715212.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC063H12|Staphylococcus sp. HMSC063H12 unknown strain	0.00097	1715212.0	1715212
+29523.8.1	strain	2|976|200643|171549|815|816|29523|29523.8.1	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp.|	0.0009	29523.8.1	29523
+471.5.1	strain	2|1224|1236|72274|468|469|471|471.5.1	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter calcoaceticus|	0.00087	471.5.1	471
+2072506.0	strain	2|1239|91061|1385|186817|1386|2072506|2072506.0	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus sp. AKBS9|Bacillus sp. AKBS9 unknown strain	0.00084	2072506.0	2072506
+1739509.0	strain	2|1239|91061|1385|90964|1279|1739509|1739509.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC055A10|Staphylococcus sp. HMSC055A10 unknown strain	0.00084	1739509.0	1739509
+1074189.1	strain	2|1239|91061|186826|1300|1301|1310|1074189.1	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sobrinus|Streptococcus sobrinus TCI-336	0.0008	1074189.1	1074189
+2082629.0	strain	2|1224|1236|91347|543|561|2082629|2082629.0	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia sp. R15|Escherichia sp. R15 unknown strain	0.00077	2082629.0	2082629
+1715055.0	strain	2|1239|91061|1385|90964|1279|1715055|1715055.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC063F05|Staphylococcus sp. HMSC063F05 unknown strain	0.0007	1715055.0	1715055
+573.490.1	strain	2|1224|1236|91347|543|570|573|573.490.1	Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae|	0.0006	573.490.1	573
+1565146.0	strain	2|1239|91061|1385|186817|1386|1565146|1565146.0	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus sp. UMTAT18|Bacillus sp. UMTAT18 unknown strain	0.0006	1565146.0	1565146
+1702238.0	strain	2|1239|186801|186802|31979|1485|1702238|1702238.0	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium sp. MF28|Clostridium sp. MF28 unknown strain	0.00049	1702238.0	1702238
+1608907.0	strain	2|1239|91061|1385|90964|1279|1608907|1608907.0	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sp. HMSC74G05|Staphylococcus sp. HMSC74G05 unknown strain	0.00048	1608907.0	1608907
+1866317.0	strain	2|1239|91061|1385|186817|1386|1866317|1866317.0	Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus sp. P14-1|Bacillus sp. P14-1 unknown strain	0.00048	1866317.0	1866317
+334542.2.1	strain	2|201174|1760|85007|85025|1827|334542|334542.2.1	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Nocardiaceae|Rhodococcus|Rhodococcus qingshengii|	0.00046	334542.2.1	334542
+445629.1.1	strain	2|1224|28211|204455|31989|1060|445629|445629.1.1	Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Rhodobacter|Rhodobacter johrii|	0.00043	445629.1.1	445629
+1295.1.1	strain	2|1239|91061|1385|90964|1279|1295|1295.1.1	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus schleiferi|	0.00038	1295.1.1	1295
+1680.34.1	strain	2|201174|1760|85004|31953|1678|1680|1680.34.1	Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium adolescentis|	0.00036	1680.34.1	1680
+1306.5.1	strain	2|1239|91061|186826|1300|1301|1306|1306.5.1	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp.|	0.00034	1306.5.1	1306
+48296.60.1	strain	2|1224|1236|72274|468|469|48296|48296.60.1	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter pittii|	0.00017	48296.60.1	48296
